@@ -1,0 +1,58 @@
+{
+  "name": "iconiclifesciences",
+  "version": "0.1.0",
+  "homepage": "/",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "axios": "^1.6.5",
+    "bootstrap": "^5.3.2",
+    "cra-template": "1.2.0",
+    "file-saver": "^2.0.5",
+    "he": "^1.2.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.2",
+    "react-circular-progressbar": "^2.1.0",
+    "react-countup": "^6.5.0",
+    "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.6.4",
+    "react-helmet-async": "^2.0.4",
+    "react-icons": "^4.12.0",
+    "react-lazy-load-image-component": "^1.6.0",
+    "react-loader-spinner": "^6.1.6",
+    "react-router-dom": "^6.21.2",
+    "react-scripts": "5.0.1",
+    "react-simple-image-viewer": "^1.2.2",
+    "react-slick": "^0.29.0",
+    "react-toastify": "^10.0.5",
+    "resuite": "^0.0.2",
+    "rsuite": "^5.49.0",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^11.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
