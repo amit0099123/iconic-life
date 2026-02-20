@@ -28,13 +28,19 @@
     "react-toastify": "^10.0.5",
     "resuite": "^0.0.2",
     "rsuite": "^5.49.0",
+<<<<<<< HEAD
     "sitemap": "^9.0.0",
+=======
+>>>>>>> f3953e61be428f07f1cc313516974d7806c0271b
     "slick-carousel": "^1.8.1",
     "swiper": "^11.0.5"
   },
   "scripts": {
+<<<<<<< HEAD
     "generate-sitemap": "node generate-sitemap.js",
     "prebuild": "node generate-sitemap.js",
+=======
+>>>>>>> f3953e61be428f07f1cc313516974d7806c0271b
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
